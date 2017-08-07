@@ -1,5 +1,4 @@
 # hello-world
 ###kjgfcdb's first repository
 
-Hello everyone!
-  I'm kjgfcdb from China,this is my first github repository,which is used for learning.
+This is some annoying data and data-processing programs. The topic is about DTW(Dynamic Time Warping).
